@@ -31,5 +31,3 @@ pnpm install
 ```
 pnpm run dev
 ```
-
-This project is licensed under the MIT License
